@@ -51,8 +51,8 @@ def monopoly_with_fourth_tier
   my_hash = {
 	  :railroads => {
 	    :names => { 
-	      :reading_railroad => { "mortgage" => ""},
-	      :pennsylvania_railroad => {},
+	      :reading_railroad => { "mortgage" => "$100"},
+	      :pennsylvania_railroad => { "mortgage" => "$"},
 	      :b_and_o_railroad => {},
 	      :shortline_railroad => {}
 	    }
