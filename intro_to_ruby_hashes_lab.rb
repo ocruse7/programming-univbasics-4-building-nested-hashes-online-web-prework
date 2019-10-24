@@ -44,8 +44,10 @@ def monopoly_with_fourth_tier
   # complexity.
   my_hash = {
 	  :railroads => {
-	    :names => {
-	      
+	    :names => { 
+	      :reading_railroad => {}
+	      :pennsylvania_railroad => {}
+	      :
 	    }
 	    :pieces => 4, 
 	    :rent_in_dollars =>{
